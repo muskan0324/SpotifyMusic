@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpotifyMusic</string>
+    <string name="title_activity_animated_home_screen">AnimatedHomeScreenActivity</string>
+</resources>
